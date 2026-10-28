@@ -2,12 +2,12 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-  <img src="assets/hero-dark.svg" alt="Muhammad As&#x27;ad Waseem: Python Developer, Applied AI, TinyML" width="100%">
+  <img src="assets/hero-dark.svg" alt="Muhammad As&#x27;ad Waseem: Curious Python Dev, Solution Engineer, 3D Printing Enthusiast" width="100%">
 </picture>
 
-<h3>Developer by craft. Problem-solver by instinct.</h3>
+<h3>Curious Python Dev &nbsp;&middot;&nbsp; Solution Engineer &nbsp;&middot;&nbsp; 3D Printing Enthusiast</h3>
 
-<p>I build useful Python software at the intersection of <strong>AI, automation, developer tooling, and real-world systems.</strong></p>
+<p>Curious by nature. I enjoy using <strong>Python, creative problem-solving, and hands-on making</strong> to turn ideas into practical solutions.</p>
 
 <p>
 <a href="https://github.com/rx290?tab=repositories"><img alt="Explore my repositories" src="https://img.shields.io/badge/Explore-My%20Projects-14B8A6?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -19,11 +19,11 @@
 
 ### What I build
 
-I'm **Muhammad As'ad Waseem**, a Python developer and applied-AI builder. My work connects the software layer to things people actually use: AI-assisted CAD, mesh and slicer integrations, automation tools, and resource-constrained machine learning.
+I'm **Muhammad As'ad Waseem** — a **curious Python dev, Solution Engineer, and 3D printing enthusiast**. I like understanding how things work, solving real problems, and building tools along the way. My projects range from Python automation and AI-assisted CAD to slicer integrations and TinyML research.
 
 I have **completed an MS in Data Science**. My research explored **semantic and context-aware radar gesture recognition for TinyML and IoT devices**. Beyond writing a model, I care about its input pipeline, memory limits, failure cases, and what a prediction *does* in the real world.
 
-### Selected engineering work
+### Featured projects
 
 <table>
 <tr>
