@@ -2,12 +2,12 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-  <img src="assets/hero-dark.svg" alt="Muhammad As&#x27;ad Waseem: Curious Python Dev, Solution Engineer, 3D Printing Enthusiast" width="100%">
+  <img src="assets/hero-dark.svg" alt="Muhammad As&#x27;ad Waseem: Curious Python Dev, Solution Engineer, AI Specialist, 3D Printing Enthusiast" width="100%">
 </picture>
 
-<h3>Curious Python Dev &nbsp;&middot;&nbsp; Solution Engineer &nbsp;&middot;&nbsp; 3D Printing Enthusiast</h3>
+<h3>Curious Python Dev &nbsp;&middot;&nbsp; Solution Engineer &nbsp;&middot;&nbsp; AI Specialist &nbsp;&middot;&nbsp; 3D Printing Enthusiast</h3>
 
-<p>Curious by nature. I enjoy using <strong>Python, creative problem-solving, and hands-on making</strong> to turn ideas into practical solutions.</p>
+<p>Curious by nature. I enjoy building practical solutions with <strong>Python, machine learning, deep learning, LLMs, agentic AI, and hands-on making.</strong></p>
 
 <p>
 <a href="https://github.com/rx290?tab=repositories"><img alt="Explore my repositories" src="https://img.shields.io/badge/Explore-My%20Projects-14B8A6?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -19,9 +19,11 @@
 
 ### What I build
 
-I'm **Muhammad As'ad Waseem** — a **curious Python dev, Solution Engineer, and 3D printing enthusiast**. I like understanding how things work, solving real problems, and building tools along the way. My projects range from Python automation and AI-assisted CAD to slicer integrations and TinyML research.
+I'm **Muhammad As'ad Waseem** — a **curious Python dev, Solution Engineer, AI Specialist, and 3D printing enthusiast**. I enjoy understanding how things work and building useful solutions. My projects connect Python, automation, AI-assisted tools, slicer integrations, and TinyML research.
 
 I have **completed an MS in Data Science**. My research explored **semantic and context-aware radar gesture recognition for TinyML and IoT devices**. Beyond writing a model, I care about its input pipeline, memory limits, failure cases, and what a prediction *does* in the real world.
+
+**AI specialization:** I work across **machine learning (ML), deep learning (DL), large language models (LLMs), and agentic AI** — from data and model experimentation to LLM-powered applications, tool integrations, and context-aware workflows. My [PolyForge](https://github.com/rx290/polyforge) and [GrantCompass](https://github.com/rx290/grant-compass) projects show how I bring these techniques into practical software.
 
 ### Featured projects
 
@@ -89,6 +91,10 @@ My thesis investigated radar-based gesture classification and contextual action 
 <p>
 <img alt="Python" src="https://img.shields.io/badge/Python-256A89?style=flat-square&logo=python&logoColor=white">
 <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-C95B42?style=flat-square&logo=pytorch&logoColor=white">
+<img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-2B788A?style=flat-square">
+<img alt="Deep Learning" src="https://img.shields.io/badge/Deep%20Learning-6056A5?style=flat-square">
+<img alt="LLMs" src="https://img.shields.io/badge/LLMs-395E85?style=flat-square">
+<img alt="Agentic AI" src="https://img.shields.io/badge/Agentic%20AI-477C69?style=flat-square">
 <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-168B88?style=flat-square&logo=fastapi&logoColor=white">
 <img alt="Flask" src="https://img.shields.io/badge/Flask-44576A?style=flat-square&logo=flask&logoColor=white">
 <img alt="TensorFlow Lite Micro" src="https://img.shields.io/badge/TFLite%20Micro-E48435?style=flat-square&logo=tensorflow&logoColor=white">
