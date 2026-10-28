@@ -207,11 +207,21 @@ For my master's thesis, I worked with **four radar gesture datasets** and traine
 <img alt="Salesforce" src="https://img.shields.io/badge/Salesforce-2B95BB?style=flat-square&logo=salesforce&logoColor=white">
 </p>
 
-### How I work
+### How I build software
+
+I normally start with the problem, not the code. I figure out what I need the software to do, define the scope and requirements, and decide how I'll know it's actually working. I prefer keeping things modular so I can reuse useful parts in other projects.
 
 <table>
-<tr><td width="33%"><strong>01 / Figure it out</strong><br>Understand the problem and what I actually have to work with.</td><td width="33%"><strong>02 / Build it</strong><br>Get something working, then improve the parts that need work.</td><td width="33%"><strong>03 / Test it</strong><br>Check what works, what breaks, and where I can make it better.</td></tr>
+<tr>
+<td width="33%" valign="top"><strong>01 / Plan and design</strong><br>Work out the requirements, architecture, edge cases, and what a passing result looks like.</td>
+<td width="33%" valign="top"><strong>02 / Build with agents</strong><br>Break things into modules, direct the implementation, and review the parts that matter.</td>
+<td width="33%" valign="top"><strong>03 / Test and improve</strong><br>Check real functionality, run unit and regression tests, and fix what doesn't meet the requirements.</td>
+</tr>
 </table>
+
+I can write Python and understand the code, but I use **AI coding agents** for a lot of the implementation so I can focus on the overall solution. I don't just accept what an agent generates. I check how it behaves, look at the code when needed, and decide what needs to change. I also document the decisions and try to catch problems before they become bigger ones.
+
+I experiment with **local open-source LLMs and token-efficient workflows** too. If I can get something working reliably offline without spending unnecessary tokens, that's usually the route I'd prefer.
 
 ### GitHub activity
 
