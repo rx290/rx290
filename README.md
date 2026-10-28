@@ -13,6 +13,7 @@
 <a href="https://github.com/rx290?tab=repositories"><img alt="Explore my repositories" src="https://img.shields.io/badge/Explore-My%20Projects-14B8A6?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://github.com/rx290/polyforge"><img alt="PolyForge" src="https://img.shields.io/badge/Featured-PolyForge-5C63A6?style=for-the-badge&logo=python&logoColor=white"></a>
 </p>
+<p><a href="#public-projects">Public projects</a> &nbsp;&middot;&nbsp; <a href="#private-projects">Private builds</a> &nbsp;&middot;&nbsp; <a href="#research-spotlight">My research</a></p>
 </div>
 
 ---
@@ -25,7 +26,9 @@ I've completed my **MS in Data Science**. My thesis focused on **semantic and co
 
 On the AI side, I've worked with **machine learning (ML), deep learning (DL), LLMs, and agentic AI**. I'm especially interested in connecting models with actual tools and workflows, not just getting a response from a model. [PolyForge](https://github.com/rx290/polyforge) and [GrantCompass](https://github.com/rx290/grant-compass) are two examples of that.
 
-### Featured projects
+### Public projects
+
+These are projects you can open on GitHub, look through the code, and try for yourself.
 
 <table>
 <tr>
@@ -73,6 +76,106 @@ On the AI side, I've worked with **machine learning (ML), deep learning (DL), LL
 </td>
 </tr>
 </table>
+
+
+<p><strong>Also public: <a href="https://github.com/rx290/vocalkeep">VocalKeep</a></strong></p>
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/rx290/vocalkeep"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/vocalkeep-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/vocalkeep-light.svg">
+  <img src="assets/vocalkeep-dark.svg" alt="VocalKeep illustration" width="100%">
+</picture></a>
+</td>
+<td width="50%" valign="top">
+<p>I wanted a way to hear the speech in videos without the background music getting in the way. VocalKeep is a Python project exploring offline speech and music separation. The first phase focuses on local batch processing, not live removal in other apps.</p>
+<sub><a href="https://github.com/rx290/vocalkeep">Public repository</a> &nbsp; | &nbsp; Experimental</sub>
+</td>
+</tr>
+</table>
+
+### Private projects
+
+I also have projects I'm building for myself and my printing work. I'm keeping the code private for now, but I wanted to show what I've been working on. These are custom illustrations for the profile, not screenshots or public demos.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/learning-forge-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/learning-forge-light.svg">
+  <img src="assets/learning-forge-dark.svg" alt="Learning Forge illustration" width="100%">
+</picture>
+<p><strong>Learning Forge</strong></p>
+<p>I wanted to make educational models that do more than just look good. Learning Forge helps me create printable gears, mechanisms, and STEM kits, with checks for the maths and geometry. It also has a desktop interface so I can try ideas without doing everything by hand.</p>
+<sub>Private project. Source code not public.</sub>
+</td>
+<td width="50%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/lamp-studio-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/lamp-studio-light.svg">
+  <img src="assets/lamp-studio-dark.svg" alt="Lamp Studio illustration" width="100%">
+</picture>
+<p><strong>Lamp Studio</strong></p>
+<p>This started with Lumeforge and my earlier lamp experiments. I kept adding things I actually needed, and it has grown into an offline desktop app for designing lamps, light boxes, and printable parts. I'm keeping the newer application private while I work on the products.</p>
+<sub>Private project. Source code not public.</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/puzzle-forge-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/puzzle-forge-light.svg">
+  <img src="assets/puzzle-forge-dark.svg" alt="Puzzle Forge illustration" width="100%">
+</picture>
+<p><strong>Puzzle Forge</strong></p>
+<p>I've been experimenting with turning pictures, maps, and 3D models into puzzles that can actually be printed and assembled. This helps me work out the pieces, fit, and geometry instead of just making something that looks like a puzzle on screen.</p>
+<sub>Private project. Source code not public.</sub>
+</td>
+<td width="50%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/chatmine-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/chatmine-light.svg">
+  <img src="assets/chatmine-dark.svg" alt="Chatmine illustration" width="100%">
+</picture>
+<p><strong>Chatmine</strong></p>
+<p>I save a lot of useful links, photos, videos, and ideas in chats, then struggle to find them again. So I built Chatmine to organize that material and use AI to turn it into notes and ideas I can actually work with.</p>
+<sub>Private project. Source code not public.</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/nightshift-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/nightshift-light.svg">
+  <img src="assets/nightshift-dark.svg" alt="Nightshift illustration" width="100%">
+</picture>
+<p><strong>Nightshift</strong></p>
+<p>I kept repeating the same research and review tasks for my printing projects. Nightshift helps collect ideas, look for design problems, and prepare notes in automated runs. I still review the results and decide what is worth building.</p>
+<sub>Private project. Source code not public.</sub>
+</td>
+<td width="50%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/madlab-hq-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/madlab-hq-light.svg">
+  <img src="assets/madlab-hq-dark.svg" alt="Madlab HQ illustration" width="100%">
+</picture>
+<p><strong>Madlab HQ</strong></p>
+<p>My workstation has a growing collection of AI tools, local models, and projects. I wanted one place to check what's running and open the things I use regularly, so I started building a small local dashboard for all of it.</p>
+<sub>Private project. Source code not public.</sub>
+</td>
+</tr>
+</table>
+
+### More things I'm working on
+
+- **KitForge:** I'm exploring ideas for printable STEM kits and how to plan their production.
+- **Quadender:** I'm building my own multi-toolhead 3D printer, including custom mechanical parts.
+- **CADForge:** I'm experimenting with ways to turn pictures and descriptions into editable CAD code. It's still research and development.
+- **PrintKit:** I've been making calibration prints and simple tools to help translate real measurements into better print settings.
+
+I have other experiments too, but these are a good snapshot. Some are still early, and I don't want to call them finished products before they're ready.
 
 ### Research spotlight
 
