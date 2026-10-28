@@ -7,7 +7,7 @@
 
 <h3>Curious Python Dev &nbsp;&middot;&nbsp; Solution Engineer &nbsp;&middot;&nbsp; AI Specialist &nbsp;&middot;&nbsp; 3D Printing Enthusiast</h3>
 
-<p>Curious by nature. I enjoy building practical solutions with <strong>Python, machine learning, deep learning, LLMs, agentic AI, and hands-on making.</strong></p>
+<p>I work with Python, AI, and automation, and I also spend a lot of time building and experimenting with 3D printers. I like figuring out how things work, making something useful, and improving it as I go.</p>
 
 <p>
 <a href="https://github.com/rx290?tab=repositories"><img alt="Explore my repositories" src="https://img.shields.io/badge/Explore-My%20Projects-14B8A6?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -17,13 +17,13 @@
 
 ---
 
-### What I build
+### A bit about me
 
-I'm **Muhammad As'ad Waseem** — a **curious Python dev, Solution Engineer, AI Specialist, and 3D printing enthusiast**. I enjoy understanding how things work and building useful solutions. My projects connect Python, automation, AI-assisted tools, slicer integrations, and TinyML research.
+I'm **Muhammad As'ad Waseem**. I'm a **curious Python dev, Solution Engineer, AI Specialist, and 3D printing enthusiast**. I spend a lot of time working with Python, trying out different ideas, and building tools that solve problems I run into. Sometimes that's an AI workflow, sometimes it's a slicer plugin, and sometimes it's something for one of my 3D printers.
 
-I have **completed an MS in Data Science**. My research explored **semantic and context-aware radar gesture recognition for TinyML and IoT devices**. Beyond writing a model, I care about its input pipeline, memory limits, failure cases, and what a prediction *does* in the real world.
+I've completed my **MS in Data Science**. My thesis focused on **semantic and context-aware radar gesture recognition for TinyML and IoT devices**. I wanted to see how far I could take gesture recognition on small hardware, and how a detected gesture could mean different things depending on what someone was doing on the host device.
 
-**AI specialization:** I work across **machine learning (ML), deep learning (DL), large language models (LLMs), and agentic AI** — from data and model experimentation to LLM-powered applications, tool integrations, and context-aware workflows. My [PolyForge](https://github.com/rx290/polyforge) and [GrantCompass](https://github.com/rx290/grant-compass) projects show how I bring these techniques into practical software.
+On the AI side, I've worked with **machine learning (ML), deep learning (DL), LLMs, and agentic AI**. I'm especially interested in connecting models with actual tools and workflows, not just getting a response from a model. [PolyForge](https://github.com/rx290/polyforge) and [GrantCompass](https://github.com/rx290/grant-compass) are two examples of that.
 
 ### Featured projects
 
@@ -36,7 +36,7 @@ I have **completed an MS in Data Science**. My research explored **semantic and 
   <img src="assets/polyforge-dark.svg" alt="PolyForge project visualization" width="100%">
 </picture></a>
 <p><strong><a href="https://github.com/rx290/polyforge">PolyForge</a></strong></p>
-<p>Parametric CAD creation, local-model workflows, validation, and reproducible tests.</p>
+<p>I wanted a way to turn descriptions and measurements into editable CAD models. This brings together Python, CAD tools, optional local AI, and checks to see if the results actually make sense.</p>
 <sub><a href="https://github.com/rx290/polyforge">Repository and implementation</a> &nbsp; | &nbsp; <a href="https://github.com/rx290/polyforge/tree/main/tests">Tests</a></sub>
 </td>
 <td width="50%" valign="top">
@@ -46,7 +46,7 @@ I have **completed an MS in Data Science**. My research explored **semantic and 
   <img src="assets/cura-connect-dark.svg" alt="Cura Connect project visualization" width="100%">
 </picture></a>
 <p><strong><a href="https://github.com/rx290/cura-connect">Cura Connect</a></strong></p>
-<p>A Cura cutting tool with real plug, dowel, snap, and dovetail connectors.</p>
+<p>A Cura plugin for splitting models into printable parts and joining them back together with plugs, dowels, snaps, or dovetails. I built it around a proper geometry engine instead of just a visual trick.</p>
 <sub><a href="https://github.com/rx290/cura-connect">Repository and implementation</a> &nbsp; | &nbsp; <a href="https://github.com/rx290/cura-connect/tree/main/tests">Tests</a></sub>
 </td>
 </tr>
@@ -58,7 +58,7 @@ I have **completed an MS in Data Science**. My research explored **semantic and 
   <img src="assets/printtally-dark.svg" alt="PrintTally project visualization" width="100%">
 </picture></a>
 <p><strong><a href="https://github.com/rx290/printtally">PrintTally</a></strong></p>
-<p>A tested seven-factor cost engine with Cura and Orca/Prusa integrations.</p>
+<p>I made this because pricing a 3D print is more than calculating filament cost. It also considers machine time, electricity, maintenance, labor, design work, and profit across different slicers.</p>
 <sub><a href="https://github.com/rx290/printtally">Repository and implementation</a> &nbsp; | &nbsp; <a href="https://github.com/rx290/printtally/tree/main/tests">Tests</a></sub>
 </td>
 <td width="50%" valign="top">
@@ -68,7 +68,7 @@ I have **completed an MS in Data Science**. My research explored **semantic and 
   <img src="assets/grant-compass-dark.svg" alt="GrantCompass project visualization" width="100%">
 </picture></a>
 <p><strong><a href="https://github.com/rx290/grant-compass">GrantCompass</a></strong></p>
-<p>A Python CLI and workflow for discovering and scoring research funding.</p>
+<p>I wanted a better way to find funded study opportunities, compare them, and identify relevant researchers. This is a Python CLI and workflow that helps with searching, scoring, and reporting.</p>
 <sub><a href="https://github.com/rx290/grant-compass">Repository and implementation</a> &nbsp; | &nbsp; <a href="https://github.com/rx290/grant-compass/tree/master/tests">Tests</a></sub>
 </td>
 </tr>
@@ -82,9 +82,9 @@ I have **completed an MS in Data Science**. My research explored **semantic and 
   <img src="assets/research-dark.svg" alt="MS Data Science completed: radar I/Q signals to semantic context aware actions" width="100%">
 </picture>
 
-My thesis investigated radar-based gesture classification and contextual action mapping. I worked with **four heterogeneous radar gesture datasets**, compared compact CNN designs at multiple input resolutions, and explored **8-bit quantization and ESP32-class MCU constraints**. Gesture predictions were intended to map to different actions based on the host application's context.
+For my master's thesis, I worked with **four radar gesture datasets** and trained compact CNN models at different input resolutions. I also explored **8-bit quantization** and the limits of running models on **ESP32-class microcontrollers**. The other part I found interesting was intent mapping: recognizing a gesture is one thing, but what it should do can change depending on the application you're using.
 
-<sub>Research and prototyping are not presented here as a deployed commercial system.</sub>
+<sub>This was research and prototyping, not a commercial deployment.</sub>
 
 ### Tools and technologies
 
@@ -107,7 +107,7 @@ My thesis investigated radar-based gesture classification and contextual action 
 ### How I work
 
 <table>
-<tr><td width="33%"><strong>01 / Understand</strong><br>Start from the real problem, interfaces, and constraints.</td><td width="33%"><strong>02 / Build</strong><br>Separate testable core logic from tooling, UI, and AI workflows.</td><td width="33%"><strong>03 / Verify</strong><br>Measure results, document limits, and test the important edge cases.</td></tr>
+<tr><td width="33%"><strong>01 / Figure it out</strong><br>Understand the problem and what I actually have to work with.</td><td width="33%"><strong>02 / Build it</strong><br>Get something working, then improve the parts that need work.</td><td width="33%"><strong>03 / Test it</strong><br>Check what works, what breaks, and where I can make it better.</td></tr>
 </table>
 
 ### GitHub activity
@@ -123,7 +123,7 @@ My thesis investigated radar-based gesture classification and contextual action 
 ---
 
 <div align="center">
-<strong>Interested in Python, developer tools, practical AI, or edge ML?</strong><br>
+<strong>Into Python, AI, or 3D printing? Feel free to explore my projects.</strong><br>
 <a href="https://github.com/rx290?tab=repositories">Explore my work</a> &nbsp;&middot;&nbsp; <a href="https://github.com/rx290">Connect on GitHub</a>
-<br><sub>Older experiments and learning exercises are part of the journey; the projects above are the best place to start.</sub>
+<br><sub>I've kept my older learning projects here too. If you're new to my GitHub, the projects above are a good place to start.</sub>
 </div>
