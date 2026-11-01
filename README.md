@@ -95,6 +95,21 @@ These are projects you can open on GitHub, look through the code, and try for yo
 </tr>
 </table>
 
+<p><strong>Built with AI: <a href="https://github.com/rx290/dino-forge-showcase">Dino Forge</a> and <a href="https://github.com/rx290/zero-cost-ai-stack">zero-cost-ai-stack</a></strong></p>
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/rx290/dino-forge-showcase"><img src="https://raw.githubusercontent.com/rx290/dino-forge-showcase/main/images/flexi_gallery.png" alt="Flexi dinosaurs made by Dino Forge" width="100%"></a>
+<p>Type a species name, get a printable, movable dinosaur. FLUX, Qwen2.5-VL and TripoSG run offline on my AMD GPU, then my own joint finder places flexi hinges or snap-in ball joints. The code is private because I sell the kits. The showcase explains how it works and where the AI needed a human.</p>
+<sub><a href="https://github.com/rx290/dino-forge-showcase">Showcase</a> &nbsp; | &nbsp; Code private</sub>
+</td>
+<td width="50%" valign="top">
+<p>How I get a lot done on one paid AI plan. Claude Code plans and reviews. Routine drafting and overnight coding tasks go to free LLM APIs and local Ollama models, through a tiered CLI, a task runner that only accepts work that passes its tests, and a status line that tracks the budget.</p>
+<sub><a href="https://github.com/rx290/zero-cost-ai-stack">Public repository</a> &nbsp; | &nbsp; MIT</sub>
+</td>
+</tr>
+</table>
+
 ### Private projects
 
 I also have projects I'm building for myself and my printing work. I'm keeping the code private for now, but I wanted to show what I've been working on. These are custom illustrations for the profile, not screenshots or public demos.
