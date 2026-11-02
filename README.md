@@ -13,7 +13,7 @@
 <a href="https://github.com/rx290?tab=repositories"><img alt="Explore my repositories" src="https://img.shields.io/badge/Explore-My%20Projects-14B8A6?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://github.com/rx290/polyforge"><img alt="PolyForge" src="https://img.shields.io/badge/Featured-PolyForge-5C63A6?style=for-the-badge&logo=python&logoColor=white"></a>
 </p>
-<p><a href="#public-projects">Public projects</a> &nbsp;&middot;&nbsp; <a href="#private-projects">Private builds</a> &nbsp;&middot;&nbsp; <a href="#research-spotlight">My research</a></p>
+<p><a href="#public-projects">Public projects</a> &nbsp;&middot;&nbsp; <a href="#how-i-build-software">How I build software</a> &nbsp;&middot;&nbsp; <a href="#research-spotlight">My research</a> &nbsp;&middot;&nbsp; <a href="#private-projects">Private builds</a></p>
 </div>
 
 ---
@@ -89,7 +89,7 @@ These are projects you can open on GitHub, look through the code, and try for yo
 </picture></a>
 </td>
 <td width="50%" valign="top">
-<p>I wanted a way to hear the speech in videos without the background music getting in the way. VocalKeep is a Python project exploring offline speech and music separation. The first phase focuses on local batch processing, not live removal in other apps.</p>
+<p>I wanted to hear speech in videos without the background music getting in the way. VocalKeep now has an offline Python processing engine and a local drag-and-drop web interface. I have also tested the AMD ROCm path on my own GPU, including checking that the hardware can actually run the model instead of trusting a device availability flag.</p>
 <sub><a href="https://github.com/rx290/vocalkeep">Public repository</a> &nbsp; | &nbsp; Experimental</sub>
 </td>
 </tr>
