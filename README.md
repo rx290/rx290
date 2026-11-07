@@ -2,12 +2,12 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-  <img src="assets/hero-dark.svg" alt="Muhammad As&#x27;ad Waseem: Curious Python Dev, Solution Engineer, AI Specialist, 3D Printing Enthusiast" width="100%">
+  <img src="assets/hero-dark.svg" alt="Muhammad As&#x27;ad Waseem: AI automation and backend engineer, Salesforce solution engineer, TinyML researcher, 3D printing" width="100%">
 </picture>
 
-<h3>Curious Python Dev &nbsp;&middot;&nbsp; Solution Engineer &nbsp;&middot;&nbsp; AI Specialist &nbsp;&middot;&nbsp; 3D Printing Enthusiast</h3>
+<h3>AI Automation &nbsp;&middot;&nbsp; Backend Engineer &nbsp;&middot;&nbsp; Salesforce Solution Engineering &nbsp;&middot;&nbsp; TinyML Research</h3>
 
-<p>I work with Python, AI, and automation, and I also spend a lot of time building and experimenting with 3D printers. I like figuring out how things work, making something useful, and improving it as I go.</p>
+<p>I build Python backends and AI automation. The part I enjoy most is the checking: making sure a tool still behaves when the model hands it something wrong. My background is Salesforce solution engineering, and in my spare time I build 3D printers and the software around them.</p>
 
 <p>
 <a href="https://github.com/rx290?tab=repositories"><img alt="Explore my repositories" src="https://img.shields.io/badge/Explore-My%20Projects-14B8A6?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -20,11 +20,13 @@
 
 ### A bit about me
 
-I'm **Muhammad As'ad Waseem**. I'm a **curious Python dev, Solution Engineer, AI Specialist, and 3D printing enthusiast**. I spend a lot of time working with Python, trying out different ideas, and building tools that solve problems I run into. Sometimes that's an AI workflow, sometimes it's a slicer plugin, and sometimes it's something for one of my 3D printers.
+I'm **Muhammad As'ad Waseem**. Right now I'm looking for **AI automation or backend engineering roles**, and I'm also applying for a **funded PhD in ML and embedded sensing for manufacturing and robotics** (Germany, the Netherlands, the Nordics).
 
-I've completed my **MS in Data Science**. My thesis focused on **semantic and context-aware radar gesture recognition for TinyML and IoT devices**. I wanted to see how far I could take gesture recognition on small hardware, and how a detected gesture could mean different things depending on what someone was doing on the host device.
+My background is **Salesforce solution engineering**, so I'm used to sitting between what a business asks for and what the platform can actually do. Most of what I build on my own time comes from the same habit. Find the real problem, script it, and keep testing it until it's boring.
 
-On the AI side, I've worked with **machine learning (ML), deep learning (DL), LLMs, and agentic AI**. I'm especially interested in connecting models with actual tools and workflows, not just getting a response from a model. [PolyForge](https://github.com/rx290/polyforge) and [GrantCompass](https://github.com/rx290/grant-compass) are two examples of that.
+I've completed my **MS in Data Science**. My thesis was on **semantic, context-aware radar gesture recognition for TinyML and IoT devices**. I wanted to see how far I could push gesture recognition on small hardware, and how the same gesture could mean different things depending on what the user was doing.
+
+On the AI side I've worked with **ML, deep learning, LLMs and agentic workflows**. What I care about is wiring models into real tools and checking what comes back, not just getting a response. [PolyForge](https://github.com/rx290/polyforge), [GrantCompass](https://github.com/rx290/grant-compass) and [zero-cost-ai-stack](https://github.com/rx290/zero-cost-ai-stack) are the best examples of that.
 
 ### Public projects
 
@@ -43,14 +45,14 @@ These are projects you can open on GitHub, look through the code, and try for yo
 <sub><a href="https://github.com/rx290/polyforge">Repository and implementation</a> &nbsp; | &nbsp; <a href="https://github.com/rx290/polyforge/tree/main/tests">Tests</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/rx290/cura-connect"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/cura-connect-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/cura-connect-light.svg">
-  <img src="assets/cura-connect-dark.svg" alt="Cura Connect project visualization" width="100%">
+<a href="https://github.com/rx290/grant-compass"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/grant-compass-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/grant-compass-light.svg">
+  <img src="assets/grant-compass-dark.svg" alt="GrantCompass project visualization" width="100%">
 </picture></a>
-<p><strong><a href="https://github.com/rx290/cura-connect">Cura Connect</a></strong></p>
-<p>A Cura plugin for splitting models into printable parts and joining them back together with plugs, dowels, snaps, or dovetails. I built it around a proper geometry engine instead of just a visual trick.</p>
-<sub><a href="https://github.com/rx290/cura-connect">Repository and implementation</a> &nbsp; | &nbsp; <a href="https://github.com/rx290/cura-connect/tree/main/tests">Tests</a></sub>
+<p><strong><a href="https://github.com/rx290/grant-compass">GrantCompass</a></strong></p>
+<p>I wanted a better way to find funded study opportunities, compare them, and identify relevant researchers. This is a Python CLI and workflow that helps with searching, scoring, and reporting.</p>
+<sub><a href="https://github.com/rx290/grant-compass">Repository and implementation</a> &nbsp; | &nbsp; <a href="https://github.com/rx290/grant-compass/tree/master/tests">Tests</a></sub>
 </td>
 </tr>
 <tr>
@@ -65,14 +67,14 @@ These are projects you can open on GitHub, look through the code, and try for yo
 <sub><a href="https://github.com/rx290/printtally">Repository and implementation</a> &nbsp; | &nbsp; <a href="https://github.com/rx290/printtally/tree/main/tests">Tests</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/rx290/grant-compass"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/grant-compass-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/grant-compass-light.svg">
-  <img src="assets/grant-compass-dark.svg" alt="GrantCompass project visualization" width="100%">
+<a href="https://github.com/rx290/cura-connect"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/cura-connect-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/cura-connect-light.svg">
+  <img src="assets/cura-connect-dark.svg" alt="Cura Connect project visualization" width="100%">
 </picture></a>
-<p><strong><a href="https://github.com/rx290/grant-compass">GrantCompass</a></strong></p>
-<p>I wanted a better way to find funded study opportunities, compare them, and identify relevant researchers. This is a Python CLI and workflow that helps with searching, scoring, and reporting.</p>
-<sub><a href="https://github.com/rx290/grant-compass">Repository and implementation</a> &nbsp; | &nbsp; <a href="https://github.com/rx290/grant-compass/tree/master/tests">Tests</a></sub>
+<p><strong><a href="https://github.com/rx290/cura-connect">Cura Connect</a></strong></p>
+<p>A Cura plugin for splitting models into printable parts and joining them back together with plugs, dowels, snaps, or dovetails. I built it around a proper geometry engine instead of just a visual trick.</p>
+<sub><a href="https://github.com/rx290/cura-connect">Repository and implementation</a> &nbsp; | &nbsp; <a href="https://github.com/rx290/cura-connect/tree/main/tests">Tests</a></sub>
 </td>
 </tr>
 </table>
@@ -234,7 +236,7 @@ I normally start with the problem, not the code. I figure out what I need the so
 </tr>
 </table>
 
-I can write Python and understand the code, but I use **AI coding agents** for a lot of the implementation so I can focus on the overall solution. I don't just accept what an agent generates. I check how it behaves, look at the code when needed, and decide what needs to change. I also document the decisions and try to catch problems before they become bigger ones.
+I can write Python and understand the code, but I use **AI coding agents** for a lot of the implementation so I can focus on the overall solution. I don't just accept what an agent generates. I check how it behaves, look at the code when needed, and decide what needs to change. I also document the decisions and try to catch problems before they become bigger ones. My bigger public repos ([PolyForge](https://github.com/rx290/polyforge#how-i-built-this), [Cura Connect](https://github.com/rx290/cura-connect#how-i-built-this), [VocalKeep](https://github.com/rx290/vocalkeep#how-i-built-this)) each have a short "How I built this" section that says plainly what I designed, what Claude Code wrote, and which bugs I had to catch myself.
 
 I experiment with **local open-source LLMs and token-efficient workflows** too. If I can get something working reliably offline without spending unnecessary tokens, that's usually the route I'd prefer.
 
